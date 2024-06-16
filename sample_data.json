@@ -1,0 +1,645 @@
+{
+    "Details": {
+        "NAME": "GOLAMARI AKSHAY REDDY",
+        "Roll_No": "19891A0211",
+        "COLLEGE_CODE": "89",
+        "FATHER_NAME": "G LAKSHMI NARAYANA REDDY"
+    },
+    "Results": {
+        "1-1": {
+            "15105": {
+                "subject_code": "15105",
+                "subject_name": "ENGINEERING WORKSHOP",
+                "subject_internal": "",
+                "subject_external": "",
+                "subject_total": "",
+                "subject_grade": "A+",
+                "subject_credits": "2.5"
+            },
+            "15106": {
+                "subject_code": "15106",
+                "subject_name": "ENGINEERING CHEMISTRY LAB",
+                "subject_internal": "",
+                "subject_external": "",
+                "subject_total": "",
+                "subject_grade": "O",
+                "subject_credits": "1.5"
+            },
+            "15107": {
+                "subject_code": "15107",
+                "subject_name": "ENGLISH LANGUAGE AND COMMUNICATION SKILLS LAB",
+                "subject_internal": "",
+                "subject_external": "",
+                "subject_total": "",
+                "subject_grade": "O",
+                "subject_credits": "1"
+            },
+            "15108": {
+                "subject_code": "15108",
+                "subject_name": "BASIC ELECTRICAL ENGINEERING LAB",
+                "subject_internal": "",
+                "subject_external": "",
+                "subject_total": "",
+                "subject_grade": "B+",
+                "subject_credits": "1"
+            },
+            "151AA": {
+                "subject_code": "151AA",
+                "subject_name": "MATHEMATICS - I",
+                "subject_internal": "",
+                "subject_external": "",
+                "subject_total": "",
+                "subject_grade": "B+",
+                "subject_credits": "4"
+            },
+            "151AF": {
+                "subject_code": "151AF",
+                "subject_name": "CHEMISTRY",
+                "subject_internal": "",
+                "subject_external": "",
+                "subject_total": "",
+                "subject_grade": "B+",
+                "subject_credits": "4"
+            },
+            "151AG": {
+                "subject_code": "151AG",
+                "subject_name": "BASIC ELECTRICAL ENGINEERING",
+                "subject_internal": "",
+                "subject_external": "",
+                "subject_total": "",
+                "subject_grade": "B",
+                "subject_credits": "3"
+            },
+            "151AH": {
+                "subject_code": "151AH",
+                "subject_name": "ENGLISH",
+                "subject_internal": "",
+                "subject_external": "",
+                "subject_total": "",
+                "subject_grade": "A",
+                "subject_credits": "2"
+            },
+            "total": 144.5,
+            "credits": 19,
+            "CGPA": "7.61"
+        },
+        "1-2": {
+            "15205": {
+                "subject_code": "15205",
+                "subject_name": "APPLIED PHYSICS LAB",
+                "subject_internal": "22",
+                "subject_external": "60",
+                "subject_total": "82",
+                "subject_grade": "A+",
+                "subject_credits": "1.5"
+            },
+            "15206": {
+                "subject_code": "15206",
+                "subject_name": "PROGRAMMING FOR PROBLEM SOLVING LAB",
+                "subject_internal": "21",
+                "subject_external": "74",
+                "subject_total": "95",
+                "subject_grade": "O",
+                "subject_credits": "1.5"
+            },
+            "15207": {
+                "subject_code": "15207",
+                "subject_name": "ENVIRONMENTAL SCIENCE",
+                "subject_internal": "95",
+                "subject_external": "0",
+                "subject_total": "95",
+                "subject_grade": "O",
+                "subject_credits": "0"
+            },
+            "152AA": {
+                "subject_code": "152AA",
+                "subject_name": "MATHEMATICS II",
+                "subject_internal": "21",
+                "subject_external": "29",
+                "subject_total": "50",
+                "subject_grade": "B",
+                "subject_credits": "4"
+            },
+            "152AE": {
+                "subject_code": "152AE",
+                "subject_name": "APPLIED PHYSICS",
+                "subject_internal": "23",
+                "subject_external": "29",
+                "subject_total": "52",
+                "subject_grade": "B",
+                "subject_credits": "4"
+            },
+            "152AF": {
+                "subject_code": "152AF",
+                "subject_name": "PROGRAMMING FOR PROBLEM SOLVING",
+                "subject_internal": "25",
+                "subject_external": "44",
+                "subject_total": "69",
+                "subject_grade": "B+",
+                "subject_credits": "4"
+            },
+            "152AG": {
+                "subject_code": "152AG",
+                "subject_name": "ENGINEERING GRAPHICS",
+                "subject_internal": "20",
+                "subject_external": "26",
+                "subject_total": "46",
+                "subject_grade": "C",
+                "subject_credits": "3"
+            },
+            "total": 119.5,
+            "credits": 18,
+            "CGPA": "6.64"
+        },
+        "2-1": {
+            "15302": {
+                "subject_code": "15302",
+                "subject_name": "ANALOG ELECTRONICS LAB",
+                "subject_internal": "24",
+                "subject_external": "67",
+                "subject_total": "91",
+                "subject_grade": "O",
+                "subject_credits": "1"
+            },
+            "15309": {
+                "subject_code": "15309",
+                "subject_name": "ELECTRICAL CIRCUITS LAB",
+                "subject_internal": "22",
+                "subject_external": "72",
+                "subject_total": "94",
+                "subject_grade": "O",
+                "subject_credits": "1"
+            },
+            "15310": {
+                "subject_code": "15310",
+                "subject_name": "ELECTRICAL MACHINES LAB I",
+                "subject_internal": "21",
+                "subject_external": "70",
+                "subject_total": "91",
+                "subject_grade": "O",
+                "subject_credits": "1"
+            },
+            "15332": {
+                "subject_code": "15332",
+                "subject_name": "GENDER SENSITIZATION LAB",
+                "subject_internal": "94",
+                "subject_external": "0",
+                "subject_total": "94",
+                "subject_grade": "O",
+                "subject_credits": "0"
+            },
+            "153AC": {
+                "subject_code": "153AC",
+                "subject_name": "ANALOG ELECTRONICS",
+                "subject_internal": "18",
+                "subject_external": "26",
+                "subject_total": "44",
+                "subject_grade": "C",
+                "subject_credits": "3"
+            },
+            "153AP": {
+                "subject_code": "153AP",
+                "subject_name": "ELECTRICAL CIRCUIT ANALYSIS",
+                "subject_internal": "20",
+                "subject_external": "26",
+                "subject_total": "46",
+                "subject_grade": "C",
+                "subject_credits": "4"
+            },
+            "153AQ": {
+                "subject_code": "153AQ",
+                "subject_name": "ELECTRICAL MACHINES - I",
+                "subject_internal": "15",
+                "subject_external": "26",
+                "subject_total": "41",
+                "subject_grade": "C",
+                "subject_credits": "4"
+            },
+            "153AR": {
+                "subject_code": "153AR",
+                "subject_name": "ELECTROMAGNETIC FIELDS",
+                "subject_internal": "18",
+                "subject_external": "26",
+                "subject_total": "44",
+                "subject_grade": "C",
+                "subject_credits": "3"
+            },
+            "153AW": {
+                "subject_code": "153AW",
+                "subject_name": "ENGINEERING MECHANICS",
+                "subject_internal": "21",
+                "subject_external": "35",
+                "subject_total": "56",
+                "subject_grade": "B",
+                "subject_credits": "4"
+            },
+            "total": 124,
+            "credits": 21,
+            "CGPA": "5.90"
+        },
+        "2-2": {
+            "15407": {
+                "subject_code": "15407",
+                "subject_name": "CONTROL SYSTEMS LAB",
+                "subject_internal": "21",
+                "subject_external": "70",
+                "subject_total": "91",
+                "subject_grade": "O",
+                "subject_credits": "1"
+            },
+            "15409": {
+                "subject_code": "15409",
+                "subject_name": "DIGITAL ELECTRONICS LAB",
+                "subject_internal": "23",
+                "subject_external": "72",
+                "subject_total": "95",
+                "subject_grade": "O",
+                "subject_credits": "1"
+            },
+            "15411": {
+                "subject_code": "15411",
+                "subject_name": "ELECTRICAL MACHINES LAB II",
+                "subject_internal": "20",
+                "subject_external": "65",
+                "subject_total": "85",
+                "subject_grade": "A+",
+                "subject_credits": "1"
+            },
+            "15427": {
+                "subject_code": "15427",
+                "subject_name": "CONSTITUTION OF INDIA",
+                "subject_internal": "95",
+                "subject_external": "0",
+                "subject_total": "95",
+                "subject_grade": "O",
+                "subject_credits": "0"
+            },
+            "154AK": {
+                "subject_code": "154AK",
+                "subject_name": "CONTROL SYSTEMS",
+                "subject_internal": "23",
+                "subject_external": "37",
+                "subject_total": "60",
+                "subject_grade": "B+",
+                "subject_credits": "4"
+            },
+            "154AN": {
+                "subject_code": "154AN",
+                "subject_name": "DIGITAL ELECTRONICS",
+                "subject_internal": "21",
+                "subject_external": "26",
+                "subject_total": "47",
+                "subject_grade": "C",
+                "subject_credits": "3"
+            },
+            "154AU": {
+                "subject_code": "154AU",
+                "subject_name": "ELECTRICAL MACHINES II",
+                "subject_internal": "22",
+                "subject_external": "37",
+                "subject_total": "59",
+                "subject_grade": "B",
+                "subject_credits": "4"
+            },
+            "154BG": {
+                "subject_code": "154BG",
+                "subject_name": "LAPLACE TRANSFORMS, NUMERICAL METHODS & COMPLEX VARIABLES",
+                "subject_internal": "24",
+                "subject_external": "39",
+                "subject_total": "63",
+                "subject_grade": "B+",
+                "subject_credits": "4"
+            },
+            "154BW": {
+                "subject_code": "154BW",
+                "subject_name": "POWER SYSTEM - I",
+                "subject_internal": "20",
+                "subject_external": "26",
+                "subject_total": "46",
+                "subject_grade": "C",
+                "subject_credits": "3"
+            },
+            "total": 139,
+            "credits": 21,
+            "CGPA": "6.62"
+        },
+        "3-1": {
+            "15501": {
+                "subject_code": "15501",
+                "subject_name": "ADVANCED COMMUNICATION SKILLS LAB",
+                "subject_internal": "23",
+                "subject_external": "71",
+                "subject_total": "94",
+                "subject_grade": "O",
+                "subject_credits": "1"
+            },
+            "15519": {
+                "subject_code": "15519",
+                "subject_name": "MEASUREMENTS AND INSTRUMENTATION LAB",
+                "subject_internal": "21",
+                "subject_external": "70",
+                "subject_total": "91",
+                "subject_grade": "O",
+                "subject_credits": "1"
+            },
+            "15526": {
+                "subject_code": "15526",
+                "subject_name": "POWER ELECTRONICS LAB",
+                "subject_internal": "23",
+                "subject_external": "71",
+                "subject_total": "94",
+                "subject_grade": "O",
+                "subject_credits": "1"
+            },
+            "15527": {
+                "subject_code": "15527",
+                "subject_name": "POWER SYSTEM SIMULATION LAB",
+                "subject_internal": "20",
+                "subject_external": "67",
+                "subject_total": "87",
+                "subject_grade": "A+",
+                "subject_credits": "1"
+            },
+            "15531": {
+                "subject_code": "15531",
+                "subject_name": "INTELLECTUAL PROPERTY RIGHTS",
+                "subject_internal": "86",
+                "subject_external": "0",
+                "subject_total": "86",
+                "subject_grade": "A+",
+                "subject_credits": "0"
+            },
+            "15532": {
+                "subject_code": "15532",
+                "subject_name": "ARTIFICIAL INTELLIGENCE",
+                "subject_internal": "86",
+                "subject_external": "0",
+                "subject_total": "86",
+                "subject_grade": "A+",
+                "subject_credits": "0"
+            },
+            "155AG": {
+                "subject_code": "155AG",
+                "subject_name": "BUSINESS ECONOMICS AND FINANCIAL ANALYSIS",
+                "subject_internal": "23",
+                "subject_external": "26",
+                "subject_total": "49",
+                "subject_grade": "C",
+                "subject_credits": "3"
+            },
+            "155BR": {
+                "subject_code": "155BR",
+                "subject_name": "HIGH VOLTAGE ENGINEERING",
+                "subject_internal": "22",
+                "subject_external": "30",
+                "subject_total": "52",
+                "subject_grade": "B",
+                "subject_credits": "3"
+            },
+            "155CB": {
+                "subject_code": "155CB",
+                "subject_name": "MEASUREMENTS AND INSTRUMENTATION",
+                "subject_internal": "23",
+                "subject_external": "28",
+                "subject_total": "51",
+                "subject_grade": "B",
+                "subject_credits": "4"
+            },
+            "155CU": {
+                "subject_code": "155CU",
+                "subject_name": "POWER ELECTRONICS",
+                "subject_internal": "24",
+                "subject_external": "33",
+                "subject_total": "57",
+                "subject_grade": "B",
+                "subject_credits": "4"
+            },
+            "155CV": {
+                "subject_code": "155CV",
+                "subject_name": "POWER SYSTEM II",
+                "subject_internal": "18",
+                "subject_external": "28",
+                "subject_total": "46",
+                "subject_grade": "C",
+                "subject_credits": "4"
+            },
+            "total": 140,
+            "credits": 22,
+            "CGPA": "6.36"
+        },
+        "3-2": {
+            "15620": {
+                "subject_code": "15620",
+                "subject_name": "MICROPROCESSORS & MICROCONTROLLERS LAB",
+                "subject_internal": "22",
+                "subject_external": "67",
+                "subject_total": "89",
+                "subject_grade": "A+",
+                "subject_credits": "1"
+            },
+            "15627": {
+                "subject_code": "15627",
+                "subject_name": "POWER SYSTEM LAB",
+                "subject_internal": "24",
+                "subject_external": "73",
+                "subject_total": "97",
+                "subject_grade": "O",
+                "subject_credits": "1"
+            },
+            "15630": {
+                "subject_code": "15630",
+                "subject_name": "SIGNALS AND SYSTEMS LA",
+                "subject_internal": "21",
+                "subject_external": "50",
+                "subject_total": "71",
+                "subject_grade": "A",
+                "subject_credits": "1"
+            },
+            "15634": {
+                "subject_code": "15634",
+                "subject_name": "CYBER SECURITY",
+                "subject_internal": "89",
+                "subject_external": "0",
+                "subject_total": "89",
+                "subject_grade": "A+",
+                "subject_credits": "0"
+            },
+            "156BU": {
+                "subject_code": "156BU",
+                "subject_name": "MICROPROCESSORS & MICROCONTROLLERS",
+                "subject_internal": "18",
+                "subject_external": "34",
+                "subject_total": "52",
+                "subject_grade": "B",
+                "subject_credits": "3"
+            },
+            "156CJ": {
+                "subject_code": "156CJ",
+                "subject_name": "POWER SEMICONDUCTOR DRIVES",
+                "subject_internal": "23",
+                "subject_external": "49",
+                "subject_total": "72",
+                "subject_grade": "A",
+                "subject_credits": "3"
+            },
+            "156CK": {
+                "subject_code": "156CK",
+                "subject_name": "POWER SYSTEM OPERATION AND CONTROL",
+                "subject_internal": "17",
+                "subject_external": "34",
+                "subject_total": "51",
+                "subject_grade": "B",
+                "subject_credits": "3"
+            },
+            "156CM": {
+                "subject_code": "156CM",
+                "subject_name": "POWER SYSTEM PROTECTION",
+                "subject_internal": "20",
+                "subject_external": "26",
+                "subject_total": "46",
+                "subject_grade": "C",
+                "subject_credits": "4"
+            },
+            "156CV": {
+                "subject_code": "156CV",
+                "subject_name": "SIGNALS AND SYSTEMS",
+                "subject_internal": "21",
+                "subject_external": "31",
+                "subject_total": "52",
+                "subject_grade": "B",
+                "subject_credits": "3"
+            },
+            "156DP": {
+                "subject_code": "156DP",
+                "subject_name": "DISASTER PREPAREDNESS & PLANNING MANAGEMENT",
+                "subject_internal": "23",
+                "subject_external": "28",
+                "subject_total": "51",
+                "subject_grade": "B",
+                "subject_credits": "3"
+            },
+            "total": 143,
+            "credits": 22,
+            "CGPA": "6.50"
+        },
+        "4-1": {
+            "15703": {
+                "subject_code": "15703",
+                "subject_name": "ELECTRICAL & ELECTRONICS DESIGN LAB",
+                "subject_internal": "19",
+                "subject_external": "60",
+                "subject_total": "79",
+                "subject_grade": "A",
+                "subject_credits": "3"
+            },
+            "15707": {
+                "subject_code": "15707",
+                "subject_name": "SEMINAR",
+                "subject_internal": "88",
+                "subject_external": "0",
+                "subject_total": "88",
+                "subject_grade": "A+",
+                "subject_credits": "1"
+            },
+            "15719": {
+                "subject_code": "15719",
+                "subject_name": "INDUSTRIAL ORIENTED MINI PROJECT SUMMER INTERNSHIP",
+                "subject_internal": "0",
+                "subject_external": "86",
+                "subject_total": "86",
+                "subject_grade": "A+",
+                "subject_credits": "2"
+            },
+            "15731": {
+                "subject_code": "15731",
+                "subject_name": "PROJECT STAGE - I",
+                "subject_internal": "20",
+                "subject_external": "69",
+                "subject_total": "89",
+                "subject_grade": "A+",
+                "subject_credits": "3"
+            },
+            "157BK": {
+                "subject_code": "157BK",
+                "subject_name": "ELECTRICAL AND HYBRID VEHICLES",
+                "subject_internal": "22",
+                "subject_external": "26",
+                "subject_total": "48",
+                "subject_grade": "C",
+                "subject_credits": "3"
+            },
+            "157BT": {
+                "subject_code": "157BT",
+                "subject_name": "FUNDAMENTALS OF MANAGEMENT FOR ENGINEERS",
+                "subject_internal": "21",
+                "subject_external": "31",
+                "subject_total": "52",
+                "subject_grade": "B",
+                "subject_credits": "3"
+            },
+            "157BY": {
+                "subject_code": "157BY",
+                "subject_name": "HVDC TRANSMISSION",
+                "subject_internal": "19",
+                "subject_external": "26",
+                "subject_total": "45",
+                "subject_grade": "C",
+                "subject_credits": "3"
+            },
+            "157EY": {
+                "subject_code": "157EY",
+                "subject_name": "PYTHON PROGRAMMING",
+                "subject_internal": "22",
+                "subject_external": "44",
+                "subject_total": "66",
+                "subject_grade": "B+",
+                "subject_credits": "3"
+            },
+            "total": 147,
+            "credits": 21,
+            "CGPA": "7.00"
+        },
+        "4-2": {
+            "15802": {
+                "subject_code": "15802",
+                "subject_name": "PROJECT STAGE II",
+                "subject_internal": "24",
+                "subject_external": "72",
+                "subject_total": "96",
+                "subject_grade": "O",
+                "subject_credits": "7"
+            },
+            "158AV": {
+                "subject_code": "158AV",
+                "subject_name": "ELECTRICAL DISTRIBUTION SYSTEMS",
+                "subject_internal": "17",
+                "subject_external": "45",
+                "subject_total": "62",
+                "subject_grade": "B+",
+                "subject_credits": "3"
+            },
+            "158CD": {
+                "subject_code": "158CD",
+                "subject_name": "POWER QUALITY AND FACTS",
+                "subject_internal": "18",
+                "subject_external": "29",
+                "subject_total": "47",
+                "subject_grade": "C",
+                "subject_credits": "3"
+            },
+            "158DR": {
+                "subject_code": "158DR",
+                "subject_name": "NON CONVENTIONAL SOURCES OF ENERGY",
+                "subject_internal": "22",
+                "subject_external": "34",
+                "subject_total": "56",
+                "subject_grade": "B",
+                "subject_credits": "3"
+            },
+            "total": 124,
+            "credits": 16,
+            "CGPA": "7.75"
+        },
+        "Total": "6.76"
+    }
+}
